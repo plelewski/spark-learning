@@ -1,0 +1,183 @@
+Company,Pizza Name,Type,Size,Price
+Pizza Hut,Old Fashioned Meatbrawl™ (Pan Pizza),New Recipe Pizzas,Personal,$4.79
+Pizza Hut,Old Fashioned Meatbrawl™ (Pan Pizza),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Old Fashioned Meatbrawl™ (Pan Pizza),New Recipe Pizzas,Large,$15.49
+Pizza Hut,Cock-a-doodle Bacon™ (Hand-Tossed),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Cock-a-doodle Bacon™ (Hand-Tossed),New Recipe Pizzas,Large,$15.49
+Pizza Hut,Hot and Twisted™ (Hand-Tossed),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Hot and Twisted™ (Hand-Tossed),New Recipe Pizzas,Large,$15.49
+Pizza Hut,Pretzel Piggy™ (Hand-Tossed),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Pretzel Piggy™ (Hand-Tossed),New Recipe Pizzas,Large,$15.49
+Pizza Hut,BBQ Bacon Cheeseburger (Hand-Tossed),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,BBQ Bacon Cheeseburger (Hand-Tossed),New Recipe Pizzas,Large,$15.49
+Pizza Hut,Giddy-Up BBQ Chicken™ (Hand-Tossed),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Giddy-Up BBQ Chicken™ (Hand-Tossed),New Recipe Pizzas,Large,$15.49
+Pizza Hut,Buffalo State of Mind™ (Hand-Tossed),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Buffalo State of Mind™ (Hand-Tossed),New Recipe Pizzas,Large,$15.49
+Pizza Hut,Cherry Pepper Bombshell™ (Thin N Crispy),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Cherry Pepper Bombshell™ (Thin N Crispy),New Recipe Pizzas,Large,$15.49
+Pizza Hut,7-Alarm Fire™ (Hand-Tossed),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,7-Alarm Fire™ (Hand-Tossed),New Recipe Pizzas,Large,$15.49
+Pizza Hut,Skinny Beach™ (Skinny Slice),Skinny Pizzas,Large,$15.49
+Pizza Hut,Skinny With A Kick™ (Skinny Slice),Skinny Pizzas,Large,$15.49
+Pizza Hut,Skinny Italy (Skinny Slice),Skinny Pizzas,Large,$15.49
+Pizza Hut,Skinny Luau™ (Skinny Slice),Skinny Pizzas,Large,$15.49
+Pizza Hut,Skinny Club™ (Skinny Slice),Skinny Pizzas,Large,$15.49
+Pizza Hut,Create Your Own (Gluten-Free Crust),Gluten-Free Pizzas,Small,$9.99
+Godfather's Pizza,Cheese (Original Crust),Cheese Pizza,Mini,$4.99
+Godfather's Pizza,Cheese (Original or Golden Crust),Cheese Pizza,Small,$10.99
+Godfather's Pizza,"Cheese (Original, Golden or Thin Crust)",Cheese Pizza,Medium,$12.99
+Godfather's Pizza,Cheese (Mozza-Loaded Crust),Cheese Pizza,Medium,$13.49
+Godfather's Pizza,"Cheese (Original, Golden or Thin Crust)",Cheese Pizza,Large,$15.99
+Godfather's Pizza,Cheese (Mozza-Loaded Crust),Cheese Pizza,Large,$16.49
+Godfather's Pizza,Cheese (Original or Thin Crust),Cheese Pizza,Jumbo,$18.99
+Godfather's Pizza,All-Meat Combo Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,All-Meat Combo Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"All-Meat Combo Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,All-Meat Combo Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"All-Meat Combo Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,All-Meat Combo Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$27.99
+Godfather's Pizza,Bacon Cheeseburger Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Bacon Cheeseburger Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Bacon Cheeseburger Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Taco Pie Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Taco Pie Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Taco Pie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Taco Pie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Taco Pie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Taco Pie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Taco Pie Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Classic Combo Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Classic Combo Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Classic Combo Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Classic Combo Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Classic Combo Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Classic Combo Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Classic Combo Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Humble Pie Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Humble Pie Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Humble Pie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Humble Pie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Humble Pie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Humble Pie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Humble Pie Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Veggie Pie Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Veggie Pie Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Veggie Pie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Veggie Pie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Veggie Pie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Veggie Pie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Veggie Pie Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Hot Stuff Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Hot Stuff Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Hot Stuff Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Hot Stuff Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Hot Stuff Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Hot Stuff Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Hot Stuff Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Hawaiian Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Hawaiian Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Hawaiian Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Hawaiian Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Hawaiian Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Hawaiian Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Hawaiian Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,BLT Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,BLT Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"BLT Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,BLT Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"BLT Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,BLT Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,BLT Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Buffalo Chicken Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,Buffalo Chicken Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Buffalo Chicken Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Buffalo Chicken Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Buffalo Chicken Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Buffalo Chicken Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,Buffalo Chicken Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Super Combo Pizza (Original or Golden Crust),Specialty Pizzas,Small,$16.99
+Godfather's Pizza,"Super Combo Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$21.99
+Godfather's Pizza,Super Combo Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.49
+Godfather's Pizza,"Super Combo Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$25.99
+Godfather's Pizza,Super Combo Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.49
+Godfather's Pizza,Super Combo Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$29.99
+Godfather's Pizza,Super Hawaiian Pizza (Original or Golden Crust),Specialty Pizzas,Small,$16.99
+Godfather's Pizza,"Super Hawaiian Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$21.99
+Godfather's Pizza,Super Hawaiian Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.49
+Godfather's Pizza,"Super Hawaiian Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$25.99
+Godfather's Pizza,Super Hawaiian Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.49
+Godfather's Pizza,Super Hawaiian Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$29.99
+Godfather's Pizza,Super Taco Pizza (Original or Golden Crust),Specialty Pizzas,Small,$16.99
+Godfather's Pizza,"Super Taco Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$21.99
+Godfather's Pizza,Super Taco Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.49
+Godfather's Pizza,"Super Taco Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$25.99
+Godfather's Pizza,Super Taco Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.49
+Godfather's Pizza,Super Taco Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$29.99
+Godfather's Pizza,The Don (Original or Golden Crust),Specialty Pizzas,Small,$16.99
+Godfather's Pizza,"The Don (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$21.99
+Godfather's Pizza,The Don (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.49
+Godfather's Pizza,"The Don (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$25.99
+Godfather's Pizza,The Don (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.49
+Godfather's Pizza,The Don (Original or Thin Crust),Specialty Pizzas,Jumbo,$29.99
+Godfather's Pizza,Super Veggie Pizza (Original or Golden Crust),Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Super Veggie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$20.99
+Godfather's Pizza,Super Veggie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.49
+Godfather's Pizza,"Super Veggie Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$24.99
+Godfather's Pizza,Super Veggie Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.49
+Godfather's Pizza,Super Veggie Pizza (Original or Thin Crust),Specialty Pizzas,Jumbo,$28.99
+Godfather's Pizza,BBQ Bacon Cheeseburger Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,Chipotle Chicken and Bacon Pizza (Original Crust),Specialty Pizzas,Mini,$5.99
+Godfather's Pizza,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Small,$15.99
+Godfather's Pizza,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$19.99
+Godfather's Pizza,Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust),Specialty Pizzas,Medium,$22.24
+Godfather's Pizza,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Large,$23.99
+Godfather's Pizza,Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust),Specialty Pizzas,Large,$26.23
+Godfather's Pizza,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Jumbo,$27.99
+Godfather's Pizza,"Margherita Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$9.99
+Godfather's Pizza,Margherita Pizza (Thin Crust),Specialty Pizzas,Large,$13.99
+Godfather's Pizza,"Margherita Chicken Pizza (Original, Golden or Thin Crust)",Specialty Pizzas,Medium,$11.99
+Godfather's Pizza,Margherita Chicken Pizza (Thin Crust),Specialty Pizzas,Large,$15.99
+Godfather's Pizza,Thin Crust,Gluten-Free Pizzas,Medium,$19.99
+Godfather's Pizza,Thin Crust,Gluten-Free Pizzas,Large,$23.99
+Godfather's Pizza,Original Crust,Express Favorites,Mini,$4.99
+Godfather's Pizza,Original or Golden Crust,Express Favorites,Small,$12.69
+Godfather's Pizza,"Original, Golden or Thin Crust",Express Favorites,Medium,$15.34
+Godfather's Pizza,Mozza-Loaded Crust,Express Favorites,Medium,$15.24
+Godfather's Pizza,"Original, Golden or Thin Crust",Express Favorites,Large,$18.69
+Godfather's Pizza,Mozza-Loaded Crust,Express Favorites,Large,$18.74
+Godfather's Pizza,Original or Thin Crust,Express Favorites,Jumbo,$21.99
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"Small (10"")",$12.70
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"Medium (12"")",$16.20
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"Large (14"")",$19.95
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"X Large (16"")",$23.85
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"Small (10"")",$12.70
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"Medium (12"")",$16.20
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"Large (14"")",$19.95
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"X Large (16"")",$23.85
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"Small (10"")",$9.30
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"Medium (12"")",$11.60
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"Large (14"")",$14.45
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"X Large (16"")",$17.35
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"Small (10"")",$12.70
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"Medium (12"")",$16.20
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"Large (14"")",$19.95
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"X Large (16"")",$23.85
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"Small (10"")",$12.70
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"Medium (12"")",$16.20
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"Large (14"")",$19.20
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"X Large (16"")",$23.85
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"Small (10"")",$11.80
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"Medium (12"")",$14.95
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"Large (14"")",$18.65
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"X Large (16"")",$22.30

@@ -1,0 +1,190 @@
+Company,Pizza Name,Type,Size,Price
+Domino's Pizza,Hand Tossed,Cheeses Pizza,"Small (10"")",$5.99
+Domino's Pizza,Hand Tossed,Cheeses Pizza,"Medium (12"")",$7.99
+Domino's Pizza,Hand Tossed,Cheeses Pizza,"Large (14"")",$9.99
+Domino's Pizza,Handmade Pan,Cheeses Pizza,"Medium (12"")",$7.99
+Domino's Pizza,Crunchy Thin Crust,Cheeses Pizza,"Small (10"")",$5.99
+Domino's Pizza,Crunchy Thin Crust,Cheeses Pizza,"Medium (12"")",$7.99
+Domino's Pizza,Crunchy Thin Crust,Cheeses Pizza,"Large (14"")",$9.99
+Domino's Pizza,Brooklyn Style,Cheeses Pizza,"Large (14"")",$9.99
+Domino's Pizza,Brooklyn Style,Cheeses Pizza,"X-Large (16"")",$11.99
+Domino's Pizza,Gluten Free Crust,Cheeses Pizza,"Small (10"")",$8.99
+Domino's Pizza,Spinach & Feta (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Spinach & Feta (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Spinach & Feta (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Wisconsin 6 Cheese (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Wisconsin 6 Cheese (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Wisconsin 6 Cheese (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Wisconsin 6 Cheese (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Wisconsin 6 Cheese (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Honolulu Hawaiian (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Honolulu Hawaiian (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Honolulu Hawaiian (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Honolulu Hawaiian (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Honolulu Hawaiian (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Philly Cheese Steak (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Philly Cheese Steak (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Philly Cheese Steak (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Philly Cheese Steak (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Philly Cheese Steak (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Pacific Veggie (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Pacific Veggie (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Pacific Veggie (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Pacific Veggie (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Pacific Veggie (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Cali Chicken Bacon Ranch™ (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Cali Chicken Bacon Ranch™ (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Cali Chicken Bacon Ranch™ (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Cali Chicken Bacon Ranch™ (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Cali Chicken Bacon Ranch™ (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Fiery Hawaiian™ (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Fiery Hawaiian™ (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Fiery Hawaiian™ (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Fiery Hawaiian™ (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Fiery Hawaiian™ (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Buffalo Chicken (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Buffalo Chicken (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Buffalo Chicken (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Buffalo Chicken (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Buffalo Chicken (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Memphis BBQ Chicken (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Memphis BBQ Chicken (Hand Tossed, Hnadmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Memphis BBQ Chicken (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Memphis BBQ Chicken (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Memphis BBQ Chicken (Gluten Free Crust),Specialty Pizzas,"Small (10"")",$14.99
+Domino's Pizza,America's Favorite Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",$11.99
+Domino's Pizza,America's Favorite Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,America's Favorite Feast® (Handmade Pan),Feast Pizzas,"Medium (12"")",$15.49
+Domino's Pizza,"America's Favorite Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",$15.99
+Domino's Pizza,America's Favorite Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,America's Favorite Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",$11.99
+Domino's Pizza,Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,Bacon Cheeseburger Feast® (Handmade Pan),Feast Pizzas,"Medium (12"")",$15.49
+Domino's Pizza,"Bacon Cheeseburger Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Bacon Cheeseburger Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Bacon Cheeseburger Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Deluxe Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",$11.99
+Domino's Pizza,Deluxe Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,Deluxe Feast® (Handmade Pan),Feast Pizzas,"Medium (12"")",$15.49
+Domino's Pizza,"Deluxe Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Deluxe Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Deluxe Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",$14.99
+Domino's Pizza,ExtravaganZZa Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"ExtravaganZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)",Feast Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"ExtravaganZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",$15.99
+Domino's Pizza,ExtravaganZZa Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,ExtravaganZZa Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",$14.99
+Domino's Pizza,MeatZZa Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"MeatZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)",Feast Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"MeatZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",$15.99
+Domino's Pizza,MeatZZa Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,MeatZZa Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",$14.99
+Domino's Pizza,Ultimate Pepperoni Feast™ (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",$11.99
+Domino's Pizza,"Ultimate Pepperoni Feast™ (Hand Tossed, Handmade Pan or Thin Crust)",Feast Pizzas,"Medium (12"")",$13.99
+Domino's Pizza,"Ultimate Pepperoni Feast™ (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",$15.99
+Domino's Pizza,Ultimate Pepperoni Feast™ (Brooklyn Style),Feast Pizzas,"X-Large (16"")",$17.99
+Domino's Pizza,Ultimate Pepperoni Feast™ (Gluten Free Crust),Feast Pizzas,"Small (10"")",$14.99
+Pizza Hut,Hand-Tossed,Cheese Pizza,Medium,$8.49
+Pizza Hut,Hand-Tossed,Cheese Pizza,Large,$10.49
+Pizza Hut,Pan Pizza,Cheese Pizza,Personal,$4.29
+Pizza Hut,Pan Pizza,Cheese Pizza,Medium,$8.49
+Pizza Hut,Pan Pizza,Cheese Pizza,Large,$10.49
+Pizza Hut,Thin N Crispy,Cheese Pizza,Medium,$8.49
+Pizza Hut,Thin N Crispy,Cheese Pizza,Large,$10.49
+Pizza Hut,Stuffed Crust,Cheese Pizza,Large,$12.49
+Pizza Hut,Skinny Slice,Cheese Pizza,Large,$10.49
+Pizza Hut,Pepperoni Lover's® Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Pepperoni Lover's® Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Pepperoni Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,Pepperoni Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Pepperoni Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Pepperoni Lover's® Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Pepperoni Lover's® Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Pepperoni Lover's® Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,Pepperoni Lover's® Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Meat Lover's® Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Meat Lover's® Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Meat Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,Meat Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Meat Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Meat Lover's® Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Meat Lover's® Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Meat Lover's® Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,Meat Lover's® Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,Ultimate Cheese Lover's Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,Ultimate Cheese Lover's Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Veggie Lover's® Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Veggie Lover's® Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Veggie Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,Veggie Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Veggie Lover's® Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Veggie Lover's® Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Veggie Lover's® Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Veggie Lover's® Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,Veggie Lover's® Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Supreme Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Supreme Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Supreme Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Supreme Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Supreme Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,Supreme Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,BBQ Lover's™ (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,BBQ Lover's™ (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,BBQ Lover's™ (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,BBQ Lover's™ (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,BBQ Lover's™ (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,BBQ Lover's™ (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,BBQ Lover's™ (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,BBQ Lover's™ (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,BBQ Lover's™ (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Chicken Supreme Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$13.49
+Pizza Hut,Chicken Supreme Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,Chicken Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$5.29
+Pizza Hut,Chicken Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$13.49
+Pizza Hut,Chicken Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,Chicken Supreme Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$13.49
+Pizza Hut,Chicken Supreme Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,Chicken Supreme Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$18.49
+Pizza Hut,Chicken Supreme Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,New Primo Meat Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,New Primo Meat Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,New Primo Meat Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,New Primo Meat Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,New Primo Meat Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,New Primo Meat Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,New Primo Meat Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,New Primo Meat Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,New Primo Meat Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Hawaiian Luau (Hand-Tossed),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Hawaiian Luau (Hand-Tossed),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Hawaiian Luau (Pan Pizza),Classic Recipe Pizzas,Personal,$4.79
+Pizza Hut,Hawaiian Luau (Pan Pizza),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Hawaiian Luau (Pan Pizza),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Hawaiian Luau (Thin N Crispy),Classic Recipe Pizzas,Medium,$12.49
+Pizza Hut,Hawaiian Luau (Thin N Crispy),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Hawaiian Luau (Stuffed Crust),Classic Recipe Pizzas,Large,$17.49
+Pizza Hut,Hawaiian Luau (Skinny Slice),Classic Recipe Pizzas,Large,$15.49
+Pizza Hut,Super Supreme Pizza (Hand-Tossed),Classic Recipe Pizzas,Medium,$13.49
+Pizza Hut,Super Supreme Pizza (Hand-Tossed),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,Super Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Personal,$5.29
+Pizza Hut,Super Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Medium,$13.49
+Pizza Hut,Super Supreme Pizza (Pan Pizza),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,Super Supreme Pizza (Thin N Crispy),Classic Recipe Pizzas,Medium,$13.49
+Pizza Hut,Super Supreme Pizza (Thin N Crispy),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,Super Supreme Pizza (Stuffed Crust),Classic Recipe Pizzas,Large,$18.49
+Pizza Hut,Super Supreme Pizza (Skinny Slice),Classic Recipe Pizzas,Large,$16.49
+Pizza Hut,Garden Party™ (Thin N Crispy),New Recipe Pizzas,Medium,$12.49
+Pizza Hut,Garden Party™ (Thin N Crispy),New Recipe Pizzas,Large,$15.49
