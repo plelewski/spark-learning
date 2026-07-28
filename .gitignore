@@ -17,3 +17,4 @@ derby.log
 
 # OS
 .DS_Store
+data/*.csv
