@@ -18,3 +18,7 @@ derby.log
 # OS
 .DS_Store
 data/*.csv
+/data/spot_churn/._SUCCESS.crc
+/data/spot_churn/.part-00000-c46322d6-45b3-4109-9804-e87615aabf46-c000.snappy.parquet.crc
+/data/spot_churn/_SUCCESS
+/data/spot_churn/part-00000-c46322d6-45b3-4109-9804-e87615aabf46-c000.snappy.parquet

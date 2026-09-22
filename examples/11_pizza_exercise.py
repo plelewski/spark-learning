@@ -1,6 +1,9 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, min, max, avg, regexp_replace, round
+import os
 
+
+os.environ['SPARK_LOCAL_IP'] = '127.0.0.1'
 
 def main():
     spark = SparkSession.builder \
@@ -29,7 +32,7 @@ def main():
         .agg(
             min('Price').alias('min_price'),
             max('Price').alias('max_price'),
-            round(avg('Price'), 2).alias('max_price')
+            round(avg('Price'), 2).alias('avg_price')
         )
         .show()
     )
@@ -47,7 +50,7 @@ def main():
         .agg(
             min('Price').alias('min_price'),
             max('Price').alias('max_price'),
-            round(avg('Price'), 2).alias('max_price')
+            round(avg('Price'), 2).alias('avg_price')
         ) \
         .show()
 

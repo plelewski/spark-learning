@@ -1,5 +1,8 @@
 from pyspark.sql import SparkSession
+import os
 
+
+os.environ['SPARK_LOCAL_IP'] = '127.0.0.1'
 
 def main():
     spark = SparkSession.builder.appName("Joins").getOrCreate()
